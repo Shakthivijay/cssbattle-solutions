@@ -1,0 +1,56 @@
+<a></a>
+<a></a>
+<a></a>
+<a></a>
+<p></p>
+<p></p>
+
+<style>
+* {
+  background: #352939;
+}
+
+a {
+  position: absolute;
+  width: 80;
+  height: 80;
+  background: #A76DFF;
+  top: 110;
+  left: 85;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+a + a {
+  top: 35;
+  left: 160;
+  transform: rotate(90deg);
+}
+
+a + a + a {
+  top: 185;
+  transform: rotate(270deg);
+}
+
+a + a + a + a {
+  top: 110;
+  left: 235;
+  transform: rotate(180deg);
+}
+
+p {
+  position: absolute;
+  width: 9.9;
+  height: 201;
+  background: #FADE8B;
+  top: -61;
+  right: -40;
+  transform: rotate(135deg);
+}
+
+p + p {
+  top: -59;
+  right: -41;
+  transform: rotate(-135deg);
+}
+</style>
