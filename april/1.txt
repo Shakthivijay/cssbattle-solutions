@@ -1,0 +1,16 @@
+<p>
+<style>
+*{
+  background:#2F5872;
+  *{
+    color:F3AC3C;
+    margin:80 100;
+    box-shadow:85q 0,-85q 0
+  }
+}
+  p{
+    padding:10+100;
+    margin:0;
+    box-shadow:0 64q,0 190q,0-64q
+  }
+</style>
