@@ -1,0 +1,14 @@
+<p>
+  <style>
+    *{background:#1B1D36;color:#F0CD48;
+     +*{
+      border:43q solid;
+       margin:20 60 120;
+       border-radius:85q
+     }}
+    p{
+      padding:80+20;
+      margin:-80 80;
+      box-shadow:0 160px,60px 160px,-60px 160px,0 0 0 40px#1B1D36
+    }
+  </style>
