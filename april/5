@@ -1,0 +1,11 @@
+<p><h1><h2>
+  <style>
+    *{
+  background:#D8D8D8;color:#457D81
+    }    P{width:100;height:100;background:#C47F7D;position:absolute;top:85;left:150;
+    }
+    h1{     width:320;height:40;background:#C47F7D;position:absolute;top:110;left:40
+    }h2{      width:40;height:70;background:#457D81;position:absolute;top:0;margin:0;left:40;box-shadow:296q 0,296q 243q,0 243q
+    }
+    
+  </style>
