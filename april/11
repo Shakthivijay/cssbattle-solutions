@@ -1,0 +1,11 @@
+<p><p><h1><h1>
+  <style>
+*{margin:0;background:#DDFEE6}
+p{position:absolute;width:99.5;height:180;background:#6D62BA;border-radius:52q 52q 0 0}
+p+p{top:100;left:150;rotate:90deg}
+p{top:60;left:110}
+  h1{  position:absolute;width:40;height:120;background:#A1E6E4;border-radius:52q 52q 0 0;top:90;left:140
+  }h1+h1{
+    rotate:90deg;top:130;left:180;
+  }
+</style>
