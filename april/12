@@ -1,0 +1,14 @@
+<style>
+  *{
+    margin:65 210 65 150;
+    color:#442929;
+    box-shadow:42q 0,-42q 0,106q 0;
+    *{
+      border-radius:50%;
+      background:#F3AC3C;
+      margin:40 60 50-100;
+      color:F3AC3C;
+      box-shadow:85q 0,233q 0
+    }
+  }
+</style>
