@@ -1,0 +1,17 @@
+<p><p><h1>
+<style>
+*{margin:0;background:#588A95}
+p{
+  position:absolute;
+  width:100px;
+  height:200px;
+  background:#E8AD6D;
+  clip-path:polygon(100% 50%,0 100%,0 0);
+  top:50px
+}
+p+p{left:135px}
+p{left:55px}
+  h1{
+    height:110;width:110;background:#2F5A76;position:absolute;top:30;right:55;box-shadow:0 130px #2F5A76
+  }
+</style>
