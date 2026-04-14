@@ -1,0 +1,14 @@
+<style>
+    &{
+      background:#EE7667;
+      color:#F2EAA8;
+      border:32q solid;
+      margin:60 95 150;
+      border-radius:0 53q 53q 0;
+      border-left:0;
+      *{
+        margin:0 180-120-30;
+        box-shadow:127q 0
+      }
+    }
+  </style>
