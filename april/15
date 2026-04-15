@@ -1,0 +1,10 @@
+<style>
+&{
+  background:#2FAA8B;
+  color:17405B;
+  border:solid;
+  border-width:48q 117q;
+  margin:95 50;
+  box-shadow:158q 0#2FAA8B,169q 0 0 65px,217q 95px,212q -95px
+}
+</style>
