@@ -1,0 +1,10 @@
+<p>
+<style>
+  *{
+    background:#E8AD6D;margin:0
+    
+  }
+  p{
+    height:100;width:100;background:#FFFFFF;border-radius:20px;position:absolute;top:45;left:40;box-shadow:110px 0 #A84A4B,220px 0 #FFFFFF,0 110px #A84A4B,110px 110px #FFFFFF,220px 110px #A84A4B;
+  }
+</style>
