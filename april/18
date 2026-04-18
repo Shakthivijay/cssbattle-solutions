@@ -1,0 +1,14 @@
+<p><h1><h2>
+  <style>
+    *{
+      background:#E5E5E3;
+      margin:0
+    }
+    p{
+      height:200;width:80;background:#E75044;position:absolute;top:25;left:160;border-radius:43q 43q 0 0;box-shadow:-30px 0#E5E5E3;z-index:1
+    }h1{
+      height:50;width:260px;position:absolute;top:125;left:70;background:#E75044;border-radius:53q 53q 0 0;
+    }h2{
+      height:50;width:140;background:#E75044;position:absolute;bottom:25;left:130;
+    }
+  </style>
