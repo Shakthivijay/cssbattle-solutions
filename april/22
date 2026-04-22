@@ -1,0 +1,16 @@
+<p>
+<style>
+*{
+  background:#66284A;
+  *{
+    background:#F7BED9;
+    margin:90 40
+  }
+}
+  p{
+    padding:60+41;
+    outline:62q solid#66284A;
+    transform:skew(-30deg);
+    margin:0 119
+  }
+</style>
