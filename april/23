@@ -1,0 +1,10 @@
+<p><h1>
+  <style>
+    *{background:#4C4C6B}
+    p{
+      width:99.5;height:99.5;background:#FAE29E;border-radius:50%;position:fixed;top:84.3;left:10;box-shadow:140px 0#4A9A86,280px 0#FAE29E
+    }
+    h1{
+      width:40;height:40;background:#4A9A86;border-radius:50%;position:fixed;top:109;left:40;box-shadow:140px 0#FAE29E,280px 0#4A9A86
+    }
+  </style>
