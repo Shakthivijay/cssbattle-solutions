@@ -1,0 +1,9 @@
+<p><h1>
+  <style>
+    *{background:#405C48}
+    p{
+      width:99.5px;height:100px;background:#F7EC7D;position:fixed;bottom:20;left:94.3;box-shadow:118.5q 0 #F7EC7D;margin:0
+    }h1{
+      height:260px;width:40px;background:#F7EC7D;position:fixed;left:44;top:-1.5;box-shadow:288q 0 #F7EC7D
+    }
+  </style>
