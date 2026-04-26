@@ -1,0 +1,21 @@
+<p><a><b>
+<style>
+*{
+  background:#F9DDC6;
+  * *{
+    position:fixed;
+    padding:20+30;
+    margin:62-78;
+    color:594C94;
+    box-shadow:106q 0,233q 0,360q 0,106q 106q,233q 106q,360q 106q
+  }
+}
+  a,b{
+    margin:0 10
+  }
+  b{
+    margin:-20-30;
+    padding:10;
+    color:F9DDC6
+  }
+</style>
