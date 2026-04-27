@@ -1,0 +1,10 @@
+<p><h1>
+  <style>
+    *{background:#6592CF;}
+    p{
+      height:30;width:30;background:#282342;border-radius:50%;position:absolute;top:119;left:60;color:#282342;box-shadow:74q 0,190q 0,264q 0,95q 85q,169q 85q,95q -85q,169q -85q;
+    }h1{
+      height:20;width:70;background:#6592CF;color:#6592CF;
+      position:absolute;top:48;left:165;box-shadow:-95q 85q,95q 85q,0q 148q;
+    }
+  </style>
