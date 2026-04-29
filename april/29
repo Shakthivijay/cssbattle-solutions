@@ -1,0 +1,14 @@
+<p><h1>
+  <style>
+    *{background:#E3DCD1;
+     *{
+      background:#0D2A58;
+       margin:120 30 40 30;
+     }}
+    p{
+      width:140;height:80;position:absolute;background:#D95F5B;top:30;box-shadow:140px 0 #5CF2F7
+    }
+    h1{
+      width:80;height:40;background:#E3DCD1;border-radius:90px 90px 0 0;position:fixed;top:70;left:100;border:30px solid#0D2A58
+  ;border-bottom: none;  }
+  </style>
