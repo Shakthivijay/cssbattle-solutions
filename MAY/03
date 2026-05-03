@@ -1,0 +1,13 @@
+<p><h1><h2>
+<style>
+  *{
+    background:#F8D2D1;
+  }
+  p{
+    width:60;height:120;background:#529CAF;color:#529CAF;position:fixed;top:-6;left:170;box-shadow:0 170q;}
+h1{
+  width:120;height:60;background:#529CAF;color:#529CAF;position:fixed;top:99.5;left:10.5;box-shadow:275q 0;
+}h2{
+  width:30;height:30;background:#F8D2D1;color:#F8D2D1;border-radius:50%;position:fixed;top:0;left:185;box-shadow:0 42q,0 201q,0 244q,132q 122q,175q 122q,-132q 122q,-175q 122q;
+}
+</style>
