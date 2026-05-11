@@ -1,0 +1,16 @@
+<p>
+<style>
+  & {
+    background: #FFFFFF;
+    * {
+      background: transparent;
+      border: 20px solid #000000;
+      border-radius: 50%;
+      margin: 60px 170px 60px 50px;
+    }
+    
+  }
+  p{
+      width:180;height:90;background:#B53733;position:absolute;left:120;border:0;border-radius:0 0 120q 120q;top:55;z-index:-1
+    }
+</style>
