@@ -1,0 +1,13 @@
+<style>
+  &{
+    background:#F4DCBF;
+    color:#556D7F;
+    border:64q solid;
+    *{
+      margin:80 0 80 140;
+      box-shadow:0 21q,0 64q,0-21q,0-64q;
+    }
+    
+  }
+  
+</style>
