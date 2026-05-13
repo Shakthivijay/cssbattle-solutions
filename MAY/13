@@ -1,0 +1,16 @@
+<p><h1><h2><h3>
+  <style>
+    *{
+      background:#6592CF
+    }
+    p{
+      width:30;height:200;background:#EEEEEE;position:fixed;top:34;left:20;box-shadow:330px 0#EEEEEE;       
+    }
+    h1{
+      width:30;height:170;background:#173889;position:fixed;top:59.2;left:60;box-shadow:250px 0#173889; 
+    }h2{
+      width:30;height:140;background:#EEEEEE;position:fixed;top:90;left:100;box-shadow:170px 0#EEEEEE; 
+    }h3{
+      width:40;height:40;background:#EEEEEE;position:fixed;top:141;left:130;box-shadow:105q 0#173889;
+    }
+  </style>
