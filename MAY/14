@@ -1,0 +1,12 @@
+<style>
+  &{
+    background:#EBE77E;
+    border:106q solid#1A4341;
+    margin:-50 0;
+    *{
+      margin:30;
+      background:linear-gradient(#84BE8D 50%,#1A4341 0);
+      border-radius:50%
+    }
+  }
+</style>
