@@ -1,0 +1,13 @@
+<p>
+<style>
+  &{background:#1F1446;
+   *{
+    background:#FFCA00;
+     color:#FFCA00;
+     margin:110 125 110 125;
+     box-shadow:0 90px,0 -90px;
+   }}
+  p{
+    width:80;height:50;background:#1F1446;position:absolute;left:35;top:0;color:#1F1446;box-shadow:0 -90px,0 90px;
+  }
+</style>
