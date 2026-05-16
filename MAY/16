@@ -1,0 +1,14 @@
+<p><h1><h3>
+<style>
+  *{
+    background:#CF596A;
+  }
+  p{
+    width:65;height:119;background:#CF596A;position:fixed;top:50;left:74;border:25px solid#F3EAD2;
+  }h1{
+    width:65;height:118;background:#CF596A;position:fixed;top:45;left:212;border:25px solid#F3EAD2;
+  }h3{
+    width:24;height:24;background:#F3EAD2;position:fixed;top:120;left:189;color:#CF596A;box-shadow: 23px 0,27px 0,-23px 0,-27px 0;
+
+  }
+</style>
