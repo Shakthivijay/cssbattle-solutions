@@ -1,0 +1,10 @@
+<p><h1><h2><h3>
+<style>
+  *{background:#594C94}
+  *>*{background:#EEEDED;margin:20}
+  p,h1,h2,h3{background:#594C94;position:fixed}
+  p{height:90;width:180;left:90;border-radius:0 0 90px 90px}
+  h1{height:90;width:180;left:90;bottom:20;border-radius:90px 90px 0 0}
+  h2{height:180;width:90;left:20;top:40;border-radius:0 90px 90px 0}
+  h3{height:180;width:90;right:20;top:40;border-radius:90px 0 0 90px}
+</style>
