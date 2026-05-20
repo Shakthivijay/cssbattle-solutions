@@ -1,0 +1,12 @@
+<style>
+  &{
+    background:#30383F;
+    color:#F4DCBF;
+    border:53q dashed;
+    margin:50 70;
+    *{
+      margin:0 50 75;
+      box-shadow:159q 0,-159q 0,159q 79q,-159q 79q;
+    }
+  }
+</style>
