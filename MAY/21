@@ -1,0 +1,12 @@
+<p><h1>
+<style>
+  *{
+    background:#32360E
+  }
+  p{
+    width:60;height:120;background:#E8AD6D;position:fixed;right:80;top:14;box-shadow:0 120px#A84A4B,-60px 60px#E8AD6D,-120px 120px#E8AD6D
+  }
+  h1{
+    width:110;height:60;background:#A84A4B;position:absolute;top:189;left:200;box-shadow:-120px 0 #E8AD6D
+  }
+</style>
