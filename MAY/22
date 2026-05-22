@@ -1,0 +1,13 @@
+<p>
+<style>
+  *{
+    background:#0D2A58;
+    color:#F5E3B5;
+    +*{
+    margin:80 30;
+      border:22q solid
+    }
+  p{
+    position:fixed;padding:14.6+120;border-block:39q solid;margin:0 30
+  }
+</style>
