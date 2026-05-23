@@ -1,0 +1,12 @@
+<p><h1><h2>
+<style>
+  *{
+    background:#3157B4;
+  }p{
+    width:120;height:120;background:#84BE8D;position:absolute;left:90;top:20;box-shadow:105q 115q#84BE8D
+  }h1{
+    width:190;height:16;background:#060F55;position:absolute;left:0;top:134.5;box-shadow:223q -29.5q#060F55
+  }h2{
+    width:40;height:40;background:#060F55;position:absolute;top:100;left:170;box-shadow:20q 21q#060F55
+  }
+</style>
