@@ -1,0 +1,15 @@
+<p><style>
+  *{
+    background:#FEF9CE;
+    *{
+      background:#7C3219;
+      border-radius:50%;color:#7C3219;
+      margin: 120 170 120 170;box-shadow:106q 106q,0 106q#B9C99F,-106q 106q,106q 0#B9C99F,-106q 0#B9C99F,0 -106q#B9C99F,-106q -105.5q#7C3219,106q -105.5q#7C3219;
+    }
+  }
+  p{
+    position:fixed;width:240;height:20;background:#7C3219;right:-90;box-shadow:0 -212q;border-radius:0;z-index:-1
+  }
+
+  }
+</style>
