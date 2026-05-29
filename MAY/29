@@ -1,0 +1,14 @@
+<p><p><style>
+  &{
+    background:#CF596A;color:#F3EAD2;
+    border:40px solid;
+
+    margin:40 90;
+    
+  }
+  p{
+    width:40;height:145;background:#F3EAD2;position:absolute;top:83;rotate:45deg;left:141;    }
+  p+p{
+    rotate:135deg;left:219;
+  }
+</style>
