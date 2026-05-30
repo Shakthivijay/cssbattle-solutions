@@ -1,0 +1,13 @@
+<p>
+<style>
+  *{
+    background:#59CFA0;
+    *{
+      background:#FFFF;
+      margin:65 90 155 90;
+      border-radius:50q;box-shadow:0 96q#FFF
+    }
+  }p{
+    position:fixed;background:#317080;height:170;width:20;border-radius:0;box-shadow:none;top:-10;border:10.5px solid#59CFA0
+  }
+</style>
