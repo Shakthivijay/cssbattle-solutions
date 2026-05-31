@@ -1,0 +1,12 @@
+<p>
+<style>
+  *{
+    background:#556D7F;
+    *{
+      background:#F4DCBF;color:#F4DCBF;
+      margin:50 250 220 90;box-shadow:85q 0,170q 0,255q 0,-85q 0,-85q 180q,85q 180q,170q 180q,255q 180q,0 180q;
+    }
+  }p{
+    position:fixed;height:170;width:30;top:0;left:15;box-shadow:170q 0
+  }
+</style>
