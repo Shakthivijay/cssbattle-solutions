@@ -1,0 +1,17 @@
+<p>
+<style>
+  *{
+    background:#FEF9CE;
+    +*{
+      background:#D19F37;
+      margin:70 120
+    }
+  }p{
+    position:fixed;
+    padding:50;
+    border-radius:50%;
+    margin:30;
+    color:#FEF9CE;
+    box-shadow:85q 84q,-85q 84q,-85q -84q,85q -84q,84q 0 0-21q#D19F37,-85q 0 0 -21q#D19F37;
+  }
+</style>
