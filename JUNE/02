@@ -1,0 +1,13 @@
+<p><style>
+  *{background:#668884;
+  +*{
+    color:#EED9D9;
+    background:#668884;
+    border:50px solid;border-radius:50%;margin:30 80
+  }
+    
+   }
+  p{
+    padding:35+170;position:fixed;top:134;left:0
+  }
+</style>
