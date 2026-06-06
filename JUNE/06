@@ -1,0 +1,18 @@
+<p><h1><style>
+  *{
+    background:#0D2A58;
+    *{
+      background:trsnsparent;
+      border:33q solid#5A9F48;margin:35 275 35 10;border-radius:120q 0 0 120q;border-right:33q solid#D9D9D9
+    }
+    
+  }
+ 
+p{
+  padding:115+15;position:absolute;border:0;background:#D9D9D9;border-radius:0;margin:-30 95;box-shadow:105q 0#5A9F48
+}
+h1{position:fixed;height:170;width:54;left:265;top:0;border:33q solid#D9D9D9;border-radius:0 120q 120q 0;border-left:33q solid#5A9F48}
+</style>
+
+
+
