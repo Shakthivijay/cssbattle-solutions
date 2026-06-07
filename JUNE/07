@@ -1,0 +1,10 @@
+<p><style>
+  *{
+    background:#F4DCBF;
+    +*{
+      background:#F4DCBF;border:45q solid#D24444;margin:50 100 130 180;border-radius:140q 140q 140q 0
+    }
+  }p{
+    padding:18+17 ;position:fixed;margin:37 0 0 -122;background:transparent;border-radius:142q 0 140q 140q;border:45q solid#E39081;z-index:-1
+  }
+</style>
