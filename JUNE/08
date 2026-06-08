@@ -1,0 +1,13 @@
+<p><a><c><style>
+  *{
+    background:#8FC5EF;
+    *{
+    background:#FFFFFF;
+      margin:90 130 140 130;border-radius:0 0 140q 140q ;
+    }
+  }P{
+    position:fixed;padding:70+10;top:0;left:0;border-radius:0;box-shadow:126q 0#FFFFFF
+  }a{
+    position:fixed;padding:35;border-radius:50%;top:-80;left:35;background:#2D3464;
+  }c{position:fixed;padding:60+35;border-radius:0;left:35;top:80;background:#2D3464}
+</style>
