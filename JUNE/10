@@ -1,0 +1,22 @@
+<p><a>
+<style>
+*{
+  background:#4C4C6B;
+  +*,p{
+    border-block:90q solid#FAE29E;
+    margin:50 220 50 40;
+    border-radius:74q 74q 0 0
+  }
+}
+  p{
+    padding:15+70;
+    scale:-1;
+    margin:-85 180
+  }
+  a{
+    position:fixed;
+    padding:80+15;
+    margin:-100-15;
+    box-shadow:190q 42q#4C4C6B
+  }
+</style>
