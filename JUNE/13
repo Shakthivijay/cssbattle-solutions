@@ -1,0 +1,12 @@
+<a><p><style>
+  *{
+    background:#EFEADE;
+    *{
+      background:#594F7C;margin:105 250 145 50;border-radius:0 0 120q 120q;box-shadow:211q 0;color:#594F7C;
+    }
+  }a{
+    rotate:90deg;padding:25+25;border-radius:50%;position:fixed;top:100;left:125;box-shadow:-169q 106q,-169q -106q;
+  }p{
+    padding:50+25;position:fixed;bottom:-170;border-radius:120q 0 0  120q;left:-110
+  }
+</style>
