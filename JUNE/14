@@ -1,0 +1,8 @@
+<p><style>
+  *{
+    background:#FFF;
+    *{
+      background:radial-gradient(1q,#FFF,50px,#000 );margin:50 100;border-radius:61q;corner-shape:bevel;
+    }
+  }
+</style>
