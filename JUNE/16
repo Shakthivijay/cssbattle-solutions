@@ -1,0 +1,21 @@
+## 💻 Code
+
+```html
+<p><a><b><c><style>
+  *{
+    background:#7C3219;
+    *{color:#F7CB71;
+      background:#F7CB71;margin:70 220 170 120;box-shadow:0 106q,106q 0,106q 106q,54q 52q;
+    }
+  }p,a,b,c{
+    position:fixed;padding:10+20;box-shadow:none;top:-20;left:60;border-radius:140q 140q 0 0;
+  }
+  a{
+    rotate:90deg;top:70;left:150
+  }b{
+    rotate:180deg;top:110;left:-120
+  }c{
+    rotate:270deg;top:20;left:-210
+  }
+</style>
+```
