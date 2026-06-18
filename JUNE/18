@@ -1,0 +1,20 @@
+## 💻 Code
+
+```html
+
+<p><style>
+  *{
+    background:#81BE48;
+    +*{
+      border:53q solid#FFFFFF;
+      margin:60 110;
+      border-radius:32q;
+    }
+  }p{
+    padding:25+120;
+    rotate:45deg;
+    margin:15-80;
+  }
+</style>
+
+```
